@@ -7,3 +7,6 @@
 3. snake.py: Class for representing whole snake body
 4. game.py: Main file which has game loop
 
+
+## How to play?
+Move the snake with the arrow keys making sure to not crash into the walls or to your own body. Press 'p' to pause the game.
