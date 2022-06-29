@@ -1,5 +1,5 @@
 # SnakeGame
-- Clone of classic snake game
+- Clone of classic snake game made using pygame module
 
 ## Different files in game
 1. apple.py: Class for representing an apple and its functions
